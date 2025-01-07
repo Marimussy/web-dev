@@ -1,0 +1,14 @@
+/*style.css*/
+.button {
+		text-decoration: none;
+		font: bold 10px;
+		background-color:#BFBFBF;
+		color:#FFFFFF;
+		padding: 1px;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+
+.container{
+	padding-top:40px;
+}
